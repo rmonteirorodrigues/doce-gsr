@@ -1,6 +1,9 @@
 site_name: Doce GSR
-site_autor: Rafael
-site_url: https://jurandysoares.github.io/doce-gsr/
+site_author: Rafael Monteiro
+site_url: https://rafaelmonteirorodriguessilva.github.io/doce-gsr/
+
+repo_url: https://github.com/rafaelmonteirorodriguessilva/doce-gsr
+edit_uri: edit/main/docs/
 
 theme:
   name: material
