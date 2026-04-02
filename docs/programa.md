@@ -4,12 +4,10 @@ icon: lucide/graduation-cap
 # Gerência e Segurança de Rede
 
 ## Plano de disciplina de curso
-Curso
-Técnico de Nível Médio em Redes de Computadores, na Forma Subsequente
-Disciplina
-Gerência e Segurança de Redes
-Carga horária
-60h
+
+- Curso: Técnico de Nível Médio em Redes de Computadores, na Forma Subsequente
+- Disciplina: Gerência e Segurança de Redes
+- Carga horária: 60h
 
 ## Ementa
 Fundamentos de gerência de redes e áreas de gerenciamento. Arquiteturas e modelos de gerenciamento OSI e Internet. Protocolos e padrões de gerenciamento, com ênfase em SNMP e RMON. Ferramentas de monitoramento e gerência de redes. Fundamentos e mecanismos de segurança de redes. Tecnologias de defesa, criptografia, VPN e autenticação. Segurança em protocolos e serviços de rede. Padrões, políticas e legislação de segurança da informação.
